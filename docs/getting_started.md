@@ -9,11 +9,6 @@ how _Black_ will format your code. _Black_ isn't for everyone and you may find s
 that is a dealbreaker for you personally, which is okay! The current _Black_ code style
 [is described here](./the_black_code_style/current_style.md).
 
-## Try it out online
-
-Also, you can try out _Black_ online for minimal fuss on the
-[Black Playground](https://black.vercel.app) generously created by José Padilla.
-
 ## Installation
 
 _Black_ can be installed by running `pip install black`. It requires Python 3.10+ to
